@@ -1,0 +1,20 @@
+ls
+cd dir
+cd ..
+read const.txt 0 100
+read const.txt 400 600
+stat Bless
+info
+cd dir
+ls
+cd a
+ls
+cd ..
+ls
+cd ..
+size dir
+size const.txt
+ls
+stat const.txt
+stat dir
+stop
